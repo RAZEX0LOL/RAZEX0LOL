@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAZEX0LOL
-- 👀 I’m interested in front-end and back-end development
+- 👀 I’m interested in front-end development
 - 🌱 I study in Saratov State Technical University named after Gagarin (SSTU)
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me 
