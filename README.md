@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAZEX0LOL
-- 👀 I’m interested in front-end development
-- 🌱 I study in Saratov State Technical University named after Gagarin (SSTU)
+- 👀 I’m junior front-end development and teacher HTML,CSS,JS for kids, React for adults.
+- 🌱 I study and work in Saratov State Technical University named after Gagarin (SSTU)
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me 
 E-mail: khattayev00@mail.ru
