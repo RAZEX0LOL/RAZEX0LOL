@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAZEX0LOL
-- 👀 I’m junior front-end development and teacher HTML,CSS,JS for kids, React for adults.
+- 👀 I’m Front-end development and teacher HTML,CSS,JS for kids, React for adults.
 - 🌱 I study and work in Saratov State Technical University named after Gagarin (SSTU)
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me 
