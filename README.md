@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me 
 E-mail: khattayev00@mail.ru
-Instagramm: _razex__official_
 VK: https://vk.com/id220222618
 <!---
 RAZEX0LOL/RAZEX0LOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
