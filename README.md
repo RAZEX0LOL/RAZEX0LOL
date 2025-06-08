@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Middle Frontend Developer<br>🧑🏻‍💻 I'm working with Next.js + Node.js<br>👨🏻‍🎓 I'm Study and teach in Saratov State Technical University (SSTU)<br>
+🔭 I’m Middle Frontend Developer<br>🧑🏻‍💻 I'm working with React.js + Next.js<br>👨🏻‍🎓 I'm Study and teach in Saratov State Technical University (SSTU)<br>
 
 
 ## 🌐 Socials:
