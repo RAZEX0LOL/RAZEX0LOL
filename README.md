@@ -1,4 +1,12 @@
+<div align="center">
+
 # Hi, I'm Rasul 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Middle+Frontend+Developer;React.js+%2B+Next.js+Specialist;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+
+</div>
+
+---
 
 ## About Me
 Middle Frontend Developer specializing in React.js and Next.js ecosystem. Graduate of Saratov State Technical University (SSTU) with a passion for building modern, performant web applications.
@@ -25,6 +33,30 @@ Middle Frontend Developer specializing in React.js and Next.js ecosystem. Gradua
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/RAZEX0LOL)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkhattaev@yandex.ru)
 [![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://razex.site)
+
+---
+
+## Featured Projects
+
+### 🎯 [warp-config](https://github.com/RAZEX0LOL/warp-config)
+Configuration tool for development environments
+- **Tech Stack:** JavaScript, Node.js
+- **Impact:** 10 stars, 4 forks
+- **Status:** Active
+
+### 📋 [task_manager](https://github.com/RAZEX0LOL/task_manager)
+Task management application with modern UI
+- **Tech Stack:** JavaScript, React.js
+- **Features:** Task organization, priority management
+- **Status:** Active
+
+### 🔍 [Service-discovery](https://github.com/RAZEX0LOL/Service-discovery)
+Microservices discovery utility
+- **Tech Stack:** JavaScript, Node.js
+- **Purpose:** Simplifying microservices architecture
+- **Status:** Active
+
+---
 
 ## Tech Stack
 
@@ -83,3 +115,21 @@ Middle Frontend Developer specializing in React.js and Next.js ecosystem. Gradua
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## Let's Connect
+
+I'm always open to interesting projects and collaborations. Whether you have a question, want to work together, or just want to say hi, feel free to reach out!
+
+📫 **Open to:**
+- Collaboration on open-source projects
+- Freelance opportunities
+- Technical discussions and knowledge sharing
+- Building something amazing together
+
+<div align="center">
+
+### 🤝 Let's build the future of web together!
+
+</div>
