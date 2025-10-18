@@ -50,10 +50,10 @@ Task management application with modern UI
 - **Features:** Task organization, priority management
 - **Status:** Active
 
-### 🔍 [Service-discovery](https://github.com/RAZEX0LOL/Service-discovery)
-Microservices discovery utility
-- **Tech Stack:** JavaScript, Node.js
-- **Purpose:** Simplifying microservices architecture
+### 📁 [media-catalog](https://github.com/RAZEX0LOL/media-catalog)
+Modern media file management system with Synology-inspired UI
+- **Tech Stack:** JavaScript, Node.js, SQLite
+- **Features:** File upload/download, thumbnail generation, responsive design
 - **Status:** Active
 
 ---
