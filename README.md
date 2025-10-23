@@ -32,7 +32,6 @@ Middle Frontend Developer specializing in React.js and Next.js ecosystem. Gradua
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Nidhogg_0)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/RAZEX0LOL)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rkhattaev@yandex.ru)
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](https://razex.site)
 
 ---
 
