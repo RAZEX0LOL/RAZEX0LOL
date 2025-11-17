@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-Middle Frontend Developer specializing in React.js and Next.js ecosystem. Graduate of Saratov State Technical University (SSTU) with a passion for building modern, performant web applications.
+Middle JavaScript FullStack Developer specializing in React.js and Next.js ecosystem. Graduate of Saratov State Technical University (SSTU) with a passion for building modern, performant web applications.
 
 ### Currently Working On
 - Personal portfolio and open-source projects
