@@ -23,20 +23,19 @@
 
 ## Featured project
 
-### [Razex Stream Bot](https://github.com/RAZEX0LOL/razex-stream-bot)
+### [Razex Task Manager](https://github.com/RAZEX0LOL/razex-task-manager)
 
-A dependency-free Twitch chat automation core extracted from a production
-product. It includes IRC and EventSub integrations, custom commands, role-based
-permissions, cooldowns, timers, alerts, activity and loyalty tracking, a music
-queue, and a local demo dashboard.
+A full-stack team workflow platform built with React, Redux Toolkit, Express,
+MongoDB, and Bun. It combines role-based administration, Kanban and table views,
+task history, notifications, attachments, and optional AI-assisted assignment.
 
-**Engineering highlights:** 112 automated tests, CI, input validation, atomic
-JSON persistence, SSRF-resistant URL fetching, secret scanning, and push
-protection.
+**Engineering highlights:** secure cookie-based JWT authentication, admin-only
+account creation, assignment-scoped access control, deterministic AI fallback,
+defensive HTTP headers, CI, and 14 automated tests.
 
 <p align="center">
-  <a href="https://github.com/RAZEX0LOL/razex-stream-bot">
-    <img src="https://raw.githubusercontent.com/RAZEX0LOL/razex-stream-bot/main/docs/images/demo-dashboard.jpg" alt="Razex Stream Bot dashboard" width="820" />
+  <a href="https://github.com/RAZEX0LOL/razex-task-manager">
+    <img src="https://raw.githubusercontent.com/RAZEX0LOL/razex-task-manager/main/docs/images/dashboard.jpg" alt="Razex Task Manager dashboard" width="820" />
   </a>
 </p>
 
@@ -44,12 +43,13 @@ protection.
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Razex Stream Bot](https://github.com/RAZEX0LOL/razex-stream-bot) | Production-derived Twitch automation core with IRC, EventSub, role-based commands, SSRF-resistant fetching, atomic persistence, and 112 tests. |
 | [Razex Now Playing](https://github.com/RAZEX0LOL/razex-now-playing) | Real-time Spotify and YouTube Music overlays for OBS with Next.js, SSE, Prisma, PostgreSQL, encrypted credentials, Docker, and 11 tests. |
 | [Telegram Business Bot](https://github.com/RAZEX0LOL/telegram-business-bot) | Self-hosted booking, order, request, notification, and admin workflows with Bun, persistent SQLite sessions, hardened systemd, and 13 tests. |
 | [OBS Chat Control](https://github.com/RAZEX0LOL/razex-obs-chat-control) | Allow-listed Twitch EventSub control for private OBS/mediamtx deployments, built with Python, TwitchIO, async I/O, systemd, and 12 tests. |
 | [Music Player PWA](https://github.com/RAZEX0LOL/music-player-pwa) | Privacy-first offline music player using IndexedDB, Service Workers, Media Session, accessible UI, and 15 tests. |
 | [SkyTrack](https://github.com/RAZEX0LOL/SkyTrack) | Responsive flight dashboard with strict TypeScript, URL-driven state, derived telemetry, accessibility checks, CI, and a [live demo](https://razex0lol.github.io/SkyTrack/). |
-| [Task Manager](https://github.com/RAZEX0LOL/razex-task-manager) | Extended educational MERN team workflow with secure JWT auth, role gates, optional AI-assisted assignment, CI, and 14 tests. |
+| [Lloyd Consulting Website](https://github.com/RAZEX0LOL/lloid) | Production client website built with React and Tailwind CSS, available at [ллойд.рф](https://ллойд.рф). |
 
 ## Core stack
 
