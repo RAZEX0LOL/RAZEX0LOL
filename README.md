@@ -1,6 +1,6 @@
 <h1 align="center">Rasul Khattaev</h1>
 <p align="center">
-  Full-stack JavaScript developer building production web products, integrations,<br />
+  Full-stack JavaScript / TypeScript developer building production web products, integrations,<br />
   automation services, and the infrastructure that keeps them running.
 </p>
 
@@ -25,19 +25,40 @@
 
 ### [Razex Task Manager](https://github.com/RAZEX0LOL/razex-task-manager)
 
-A full-stack team workflow platform built with React, Redux Toolkit, Express,
-MongoDB, and Bun. It combines role-based administration, Kanban and table views,
-task history, notifications, attachments, and optional AI-assisted assignment.
+A production-ready team workflow platform built with React, Redux Toolkit,
+Express, MongoDB, WebSocket, and Bun. It brings projects, Kanban workflows,
+client acceptance, real-time conversations, notifications, audit history,
+attachments, reporting, and AI-assisted assignment into one product.
 
-**Engineering highlights:** secure cookie-based JWT authentication, admin-only
-account creation, assignment-scoped access control, deterministic AI fallback,
-defensive HTTP headers, CI, and 14 automated tests.
+**Engineering highlights:** four scoped system roles (`admin`, `manager`,
+`employee`, `client`), secure cookie-based JWT sessions with revocation,
+project-aware access control, rate-limited AI endpoints with deterministic
+fallbacks, Docker/nginx deployment, CI, and 79 automated unit and integration
+tests in the full build.
+
+The linked repository is a security-reviewed public engineering snapshot; the
+complete product and deployment history remain private.
 
 <p align="center">
   <a href="https://github.com/RAZEX0LOL/razex-task-manager">
-    <img src="https://raw.githubusercontent.com/RAZEX0LOL/razex-task-manager/main/docs/images/dashboard.jpg" alt="Razex Task Manager dashboard" width="820" />
+    <img src="assets/task-manager/dashboard-overview.jpg" alt="Razex Task Manager dashboard with delivery metrics" width="900" />
   </a>
 </p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="assets/task-manager/task-board.jpg" alt="Razex Task Manager Kanban board" />
+    </td>
+    <td width="50%">
+      <img src="assets/task-manager/messages.jpg" alt="Razex Task Manager real-time team messages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Kanban workflow</strong></td>
+    <td align="center"><strong>Real-time team messages</strong></td>
+  </tr>
+</table>
 
 ## Selected work
 
