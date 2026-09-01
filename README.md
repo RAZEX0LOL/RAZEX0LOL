@@ -40,6 +40,17 @@ protection.
   </a>
 </p>
 
+## Selected work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Razex Now Playing](https://github.com/RAZEX0LOL/razex-now-playing) | Real-time Spotify and YouTube Music overlays for OBS with Next.js, SSE, Prisma, PostgreSQL, encrypted credentials, Docker, and 11 tests. |
+| [Telegram Business Bot](https://github.com/RAZEX0LOL/telegram-business-bot) | Self-hosted booking, order, request, notification, and admin workflows with Bun, persistent SQLite sessions, hardened systemd, and 13 tests. |
+| [OBS Chat Control](https://github.com/RAZEX0LOL/razex-obs-chat-control) | Allow-listed Twitch EventSub control for private OBS/mediamtx deployments, built with Python, TwitchIO, async I/O, systemd, and 12 tests. |
+| [Music Player PWA](https://github.com/RAZEX0LOL/music-player-pwa) | Privacy-first offline music player using IndexedDB, Service Workers, Media Session, accessible UI, and 15 tests. |
+| [SkyTrack](https://github.com/RAZEX0LOL/SkyTrack) | Responsive flight dashboard with strict TypeScript, URL-driven state, derived telemetry, accessibility checks, CI, and a [live demo](https://razex0lol.github.io/SkyTrack/). |
+| [Task Manager](https://github.com/RAZEX0LOL/task_manager) | Extended educational MERN team workflow with secure JWT auth, role gates, optional AI-assisted assignment, CI, and 14 tests. |
+
 ## Core stack
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js` · `NestJS` ·
