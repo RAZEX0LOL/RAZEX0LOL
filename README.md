@@ -49,7 +49,7 @@ protection.
 | [OBS Chat Control](https://github.com/RAZEX0LOL/razex-obs-chat-control) | Allow-listed Twitch EventSub control for private OBS/mediamtx deployments, built with Python, TwitchIO, async I/O, systemd, and 12 tests. |
 | [Music Player PWA](https://github.com/RAZEX0LOL/music-player-pwa) | Privacy-first offline music player using IndexedDB, Service Workers, Media Session, accessible UI, and 15 tests. |
 | [SkyTrack](https://github.com/RAZEX0LOL/SkyTrack) | Responsive flight dashboard with strict TypeScript, URL-driven state, derived telemetry, accessibility checks, CI, and a [live demo](https://razex0lol.github.io/SkyTrack/). |
-| [Task Manager](https://github.com/RAZEX0LOL/task_manager) | Extended educational MERN team workflow with secure JWT auth, role gates, optional AI-assisted assignment, CI, and 14 tests. |
+| [Task Manager](https://github.com/RAZEX0LOL/razex-task-manager) | Extended educational MERN team workflow with secure JWT auth, role gates, optional AI-assisted assignment, CI, and 14 tests. |
 
 ## Core stack
 
